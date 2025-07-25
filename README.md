@@ -28,7 +28,7 @@ Advanced WhatsApp Bot with modular architecture, built with Node.js and whatsapp
    chmod +x deploy.sh
    ./deploy.sh
    ```
-
+(With render Qr code is not working due the render consle)
 2. Follow the script instructions to push to GitHub
 
 3. Connect your GitHub repository to Render
